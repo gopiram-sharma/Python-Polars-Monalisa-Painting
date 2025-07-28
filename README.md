@@ -1,6 +1,6 @@
 # Mona Lisa Pixel Painter
 
-Render the famous Mona Lisa painting from a pre-generated Parquet pixel dataset, either directly in your **terminal** or on a **canvas window** using Matplotlib.
+Render the famous Mona Lisa painting from a pre-generated Parquet pixel dataset on a **canvas window** using Matplotlib.
 
 ---
 
